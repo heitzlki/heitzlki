@@ -6,7 +6,7 @@
     ✅ Postgresql
     ✅ Typescript
   Tools
-    ✅ Github
+    ✅ Git
     ✅ Linux
     
 + Test Suites: 2 passed, 2 total
