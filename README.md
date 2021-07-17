@@ -1,10 +1,11 @@
 ```diff
 + PASS  /home/heitzlki/README.md
   Techstack
-    ✅ Graphql
+    ✅ GraphQL
     ✅ React
-    ✅ Postgresql
-    ✅ Typescript
+    ✅ PostgreSQL
+    ✅ TypeScript
+    ✅ Svelte
   Tools
     ✅ Git
     ✅ Linux
