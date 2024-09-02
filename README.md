@@ -1,13 +1,17 @@
 ```diff
 + PASS  git@github.com:heitzlki/heitzlki/README.md
+
+  Languages
+    ✅ TypeScript
+    ✅ Python
   Technologies
     ✅ React Native
-    ✅ TypeScript
+    ✅ NextJS
     ✅ Express
   Tools
     ✅ Git
     ✅ Linux
     
-+ Test Suites: 2 passed, 2 total
-+ Tests:       5 passed, 5 total
++ Test Suites: 3 passed, 3 total
++ Tests:       7 passed, 7 total
 ```
