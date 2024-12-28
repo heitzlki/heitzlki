@@ -4,6 +4,7 @@
   Languages
     ✅ TypeScript
     ✅ Python
+    ✅ Java
   Technologies
     ✅ React Native
     ✅ NextJS
@@ -13,5 +14,5 @@
     ✅ Linux
     
 + Test Suites: 3 passed, 3 total
-+ Tests:       7 passed, 7 total
++ Tests:       8 passed, 8 total
 ```
